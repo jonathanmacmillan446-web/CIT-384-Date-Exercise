@@ -1,7 +1,6 @@
 // Date Exercise
 
 var date = new Date();
-console.log("Before: Today is " + date);
 
 // get the month, day and year
 var month = date.getMonth() + 1; // months start at 0
@@ -12,7 +11,6 @@ var year = date.getFullYear();
 var mm = month < 10 ? "0" + month : month;
 var dd = day < 10 ? "0" + day : day;
 
-var readable = "Today is " + mm + "/" + dd + "/" + year + ".";
-console.log("After: " + readable);
+console.log("Today is " + mm + "/" + dd + "/" + year + ".");
 
-document.body.innerHTML = "<p>Before: Today is " + date + "</p>" + "<h1>" + readable + "</h1>";
+document.body.innerHTML = "<h1>Today is " + mm + "/" + dd + "/" + year + ".</h1>";
