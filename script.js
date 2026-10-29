@@ -1,7 +1,3 @@
-// Jonathan MacMillan
-// CIT 384 - Week 9 Date Exercise
-// goal: change the long date from class into "Today is MM/DD/YYYY."
-
 // make a variable that holds the current date and time
 // if you console.log this by itself you get the long version like "Thu Oct 29 2026 14:40:58 GMT-0700"
 var date = new Date();
