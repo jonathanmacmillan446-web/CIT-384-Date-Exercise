@@ -1,0 +1,21 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eeeeee;
+  border-bottom: 10px solid gold;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  background: rgb(0, 51, 102);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #555555;
+}
