@@ -7,6 +7,11 @@ Before: Today is Thu Oct 29 2026 18:05:12 GMT-0700 (Pacific Daylight Time)
 After:  Today is 10/29/2026.
 ```
 
+## 🚀 Live Demo
+
+You can view the published website here:
+[Live Website on GitHub Pages](https://jonathanmacmillan446-web.github.io/comp484-date-exercise/)
+
 Open `index.html` to see the before/after on the page. The console shows both lines too.
 
 ## How it works
