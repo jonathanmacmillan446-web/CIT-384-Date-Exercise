@@ -6,4 +6,4 @@ Repo for Week 9 Date Exercise - JavaScript
 
 ## Live Site
 
-https://jonathanmacmillan446-web.github.io/comp484-date-exercise/
+https://jonathanmacmillan446-web.github.io/CIT-384-Date-Exercise/
